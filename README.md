@@ -1,2 +1,4 @@
-# simplisticrabbitMQ_sca
-Project for Source Code Analyzer Integration using Fortify 
+jso.camp2014.simplistic.rabbitMQ.jca.poc
+========================================
+
+A very simplistic wildfly/rabbit/rar PoC - it just works (non-production code)
